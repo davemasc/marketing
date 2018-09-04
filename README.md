@@ -2,7 +2,7 @@
 
 Live site - https://eusholli.github.io/marketing/
 
-
+Positioning - https://eusholli.github.io/marketing/mex.html    
 
 You can use the [editor on GitHub](https://github.com/eusholli/marketing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
