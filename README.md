@@ -1,4 +1,4 @@
-#Customer Landscape
+# Customer Landscape
 
 The purpose of this document is to profile customer segments as part of a discovering process
 
