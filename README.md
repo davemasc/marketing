@@ -1,41 +1,43 @@
-## Welcome to GitHub Pages
+#Customer Landscape
 
-Live site - https://eusholli.github.io/marketing/
+The purpose of this document is to profile customer segments as part of a discovering process
 
-Positioning - https://eusholli.github.io/marketing/mex.html    
+##Working Segment Name - XXXX
 
-You can use the [editor on GitHub](https://github.com/eusholli/marketing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###What Companies Look Like in Segment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###The Business Need we Satisfy that Puts them in this Segment
 
-### Markdown
+###Companies We have Spoken to and Included
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Companies We Think Might be Interesting to Speak to
 
-```markdown
-Syntax highlighted code block
+###Services We Currently Deliver to Them
 
-# Header 1
-## Header 2
-### Header 3
+###Services They Would Use if we did Deliver Them
 
-- Bulleted
-- List
+##Example Segment Name - Operational Integrity
 
-1. Numbered
-2. List
+###What Companies Look Like in Segment
 
-**Bold** and _Italic_ and `Code` text
+Companies that are victims of location spoofing that require their customers to approximately be telling the truth
 
-[Link](url) and ![Image](src)
-```
+###The Business Need we Satisfy that Puts them in this Segment
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Victims of cheating
 
-### Jekyll Themes
+###Companies We have Spoken to and Included
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eusholli/marketing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - Niantic
 
-### Support or Contact
+###Companies We Think Might be Interesting to Speak to
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - Uber/Lyft
+ - Sharing Economy apps in general
+ - Content companies fighting VPN tunneling to avoid content rights
+
+###Services We Currently Deliver to Them
+
+ - Location Integrity
+
+###Services They Would Use if we did Deliver Them
